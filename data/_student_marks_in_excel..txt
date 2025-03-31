@@ -1,0 +1,20 @@
+Here is a sample table in Excel to record student marks:
+
+**Student Marks Table**
+
+| **Student Name** | **Roll No.** | **Maths** | **Science** | **English** | **History** | **Total** | **Percentage** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| John Smith | 1 | 85 | 90 | 78 | 92 | 345 | 86.25 |
+| Jane Doe | 2 | 92 | 85 | 95 | 88 | 360 | 90.00 |
+| Bob Johnson | 3 | 78 | 80 | 82 | 85 | 325 | 81.25 |
+| Maria Rodriguez | 4 | 95 | 98 | 90 | 95 | 378 | 94.50 |
+| David Lee | 5 | 88 | 92 | 85 | 90 | 355 | 88.75 |
+
+**Formulas used:**
+
+* Total: `=SUM(B2:E2)` (assuming the marks are in columns B to E)
+* Percentage: `=TOTAL/F5*100` (assuming the total marks are in cell F5)
+
+You can customize this table to fit your specific needs, such as adding more columns for additional subjects or modifying the formulas to calculate the percentage differently.
+
+Let me know if you need any further assistance!

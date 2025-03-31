@@ -1,0 +1,13 @@
+Here is a sample table in a plain text format:
+
+**Student Marks Table**
+
+| **Student ID** | **Student Name** | **Marks** |
+| --- | --- | --- |
+| 101 | John Smith | 85 |
+| 102 | Jane Doe | 92 |
+| 103 | Bob Johnson | 78 |
+| 104 | Maria Rodriguez | 95 |
+| 105 | David Lee | 88 |
+
+Let me know if you'd like me to add more columns or rows, or if you have any specific formatting requirements!
